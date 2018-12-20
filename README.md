@@ -1,3 +1,5 @@
 # TheWebDeveloperBootCamp
 Assignments for web development course
-- gallary a simple image booth created by html and css
+https://www.udemy.com/the-web-developer-bootcamp
+## gallary 
+a simple image booth created by html and css
